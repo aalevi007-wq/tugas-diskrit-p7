@@ -1,1 +1,1 @@
-# tugas-diskrit-p6
+# tugas-diskrit-p7
