@@ -1,0 +1,1 @@
+# tugas-diskrit-p6
